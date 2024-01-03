@@ -1,4 +1,4 @@
-@import '../../utils/variables.scss';
+@import '../../styles/variables.scss';
 
 .hovered-list {
   &__elements {
@@ -6,6 +6,8 @@
     flex-direction: column;
     gap: 5px;
     margin-bottom: 10px;
+    max-height: 200px;
+    overflow-y: auto;
   }
 
   &__wrapper {

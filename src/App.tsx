@@ -3,8 +3,8 @@ import { getPresets } from "./helpers/fetchPresets";
 import { useAppDispatch, useAppSelector } from "./app/hooks";
 import { setPresets } from "./features/presets";
 
-import './utils/reset.scss';
-import './utils/normalize.scss';
+import './styles/reset.scss';
+import './styles/normalize.scss';
 import './App.scss';
 import { MainPage } from "./components/MainPage/MainPage";
 
