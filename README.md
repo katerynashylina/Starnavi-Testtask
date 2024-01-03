@@ -1,6 +1,8 @@
 # Starnavi-Testtask
 
- The task was made according to [this](https://starnavi-frontend-test-task-v3.netlify.app/)
+The necessary links:
+  [The task](https://starnavi-frontend-test-task-v3.netlify.app/), 
+  [Demo Link](https://katerynashylina.github.io/starnavi-testtask/).  
 
  This project is an interactive application that fetches data from an API and operates in an app mode set by the user. Upon initiating the application by pressing START, it displays a field with the squares. When the user hovers over the square, it changes color to blue. Further interaction involves hovering on the blue square, causing it to transition to white. This project primarily showcases the visual changes of squares upon hover and demonstrates the interactivity of these elements.
 
